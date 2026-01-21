@@ -1,0 +1,6 @@
+[submodule "services/df-api"]
+	path = services/df-api
+	url = https://github.com/DriveFlow-CRM/DriveFlow-CRM-API.git
+[submodule "services/df-accountant"]
+	path = services/df-accountant
+	url = https://github.com/DriveFlow-CRM/DF-Accountant.git
